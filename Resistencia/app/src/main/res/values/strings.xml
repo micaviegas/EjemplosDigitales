@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Resistencia</string>
+
+    <array name="colores">
+        <item>Negro</item>
+        <item>Marron</item>
+        <item>Rojo</item>
+        <item>Naranja</item>
+        <item>Amarrillo</item>
+        <item>Verde</item>
+        <item>Azul</item>
+        <item>Violeta</item>
+        <item>Gris</item>
+        <item>Blanco</item>
+    </array>
+
+</resources>
